@@ -1,0 +1,24 @@
+#image {
+    text-align: center;
+}
+.titre {
+    font-size: 180%;
+}
+.paragraph {
+  background-color: pink;
+  text-align: center;
+  margin-left: 9.5cm;
+  margin-right: 9.5cm;
+  border-radius: 15%;
+}
+#tableau {
+  margin-left: 10.5cm;
+  border-style: dotted;
+}
+.case {
+  width: 3cm;
+  height: 1.5cm;
+  text-align: center;
+  background-color: pink;
+}
+
